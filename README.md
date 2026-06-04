@@ -18,8 +18,8 @@ I'm a software engineer and MSc Applied Computer Science student at TH Deggendor
 I came from 2.5 years of backend development (C#/.NET). Now I build pipelines, automate infrastructure, and document everything publicly as I go. I learn by doing, not by watching.
 
 - 🎓 MSc Applied Computer Science @ TH Deggendorf (2023–2027)
-- 🔭 Currently working on: Python scripting + Docker deep-dive
-- 🌱 Next up: Kubernetes, Terraform / IaC
+- 🔭 Currently working on: Docker deep-dive + Ansible
+- 🌱 Next up: Kubernetes
 - 💼 Open to: Werkstudent / Internship — DevOps, Cloud, Platform, SRE
 - 📍 Based in Bavaria, Germany — open to remote
 
@@ -30,6 +30,7 @@ I came from 2.5 years of backend development (C#/.NET). Now I build pipelines, a
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Amazon EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white)
 ![Amazon ECS](https://img.shields.io/badge/ECS-FF9900?style=flat-square&logo=amazon-ecs&logoColor=white)
@@ -38,13 +39,13 @@ I came from 2.5 years of backend development (C#/.NET). Now I build pipelines, a
 ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua-security&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![MS SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 
 ---
 
@@ -86,6 +87,18 @@ I came from 2.5 years of backend development (C#/.NET). Now I build pipelines, a
 
 ---
 
+### 🏗️ Terraform AWS EC2 — Infrastructure as Code
+> EC2 provisioning with security groups, key pairs, AMI data sources, remote state in S3, and file/remote-exec/local-exec provisioners
+
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Amazon EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+📂 [View Terraform Code](https://github.com/thomasjosey540/devops-learning-journey/tree/main/Projects/terraform-aws-ec2)
+
+---
+
 ### ☁️ AWS Multi-Tier Application Deployment
 > Deployed on EC2 with Nginx, Tomcat, MySQL, RabbitMQ, Memcached — re-architected with Elastic Beanstalk, RDS, ElastiCache, CloudFront
 
@@ -112,10 +125,11 @@ I came from 2.5 years of backend development (C#/.NET). Now I build pipelines, a
 
 | Topic | Status |
 |---|---|
-| Python scripting & automation | 🔄 In Progress |
-| Docker deep-dive | 🔜 Next |
+| Python scripting & automation | ✅ Done |
+| Terraform / IaC | ✅ Done |
+| Docker deep-dive | 🔄 In Progress |
+| Ansible | 🔜 Next |
 | Kubernetes | 🔜 Coming |
-| Terraform / IaC | 🔜 On roadmap |
 
 All documented live in my [DevOps Learning Journey](https://github.com/thomasjosey540/devops-learning-journey) repo.
 
