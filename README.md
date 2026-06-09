@@ -64,12 +64,7 @@ Full-stack web application (React/Next.js, TypeScript, MongoDB) with JWT authent
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thomasjosey540&show_icons=true&hide_border=true&cache_seconds=86400" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasjosey540&layout=compact&hide_border=true&cache_seconds=86400" alt="Top Languages" height="160" />
-</p>
+### 🔥 GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=thomasjosey540&hide_border=true" alt="GitHub Streak" />
