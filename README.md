@@ -125,10 +125,10 @@ I came from 2.5 years of backend development (C#/.NET). Now I build pipelines, a
 
 | Topic | Status |
 |---|---|
-| Python scripting & automation | ✅ Done |
-| Terraform / IaC | ✅ Done |
-| Docker deep-dive | 🔄 In Progress |
-| Ansible | 🔜 Next |
+| Python | ✅ Done |
+| Terraform | ✅ Done |
+| Ansible | ✅ Done |
+| Docker | 🔄 In Progress |
 | Kubernetes | 🔜 Coming |
 
 All documented live in my [DevOps Learning Journey](https://github.com/thomasjosey540/devops-learning-journey) repo.
