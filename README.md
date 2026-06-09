@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Thomas Jose 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/thomasjosey540/devops-learning-journey">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=DevOps+%26+Cloud+Engineer+in+the+making;CI%2FCD+%7C+AWS+%7C+Terraform+%7C+Ansible+%7C+Linux;ex-C%23%2F.NET+Developer+(2.5+yrs);Open+to+Werkstudent+%2F+Internship+across+Germany" alt="Typing SVG" />
-  </a>
+  <b>DevOps & Cloud Engineer in the making</b><br>
+  CI/CD · AWS · Terraform · Ansible · Linux · 2.5 yrs software engineering (C#/.NET)<br>
+  <i>Open to Werkstudent / Internship — anywhere in Germany or remote</i>
 </p>
 
 ---
