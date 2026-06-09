@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/thomasjosey540/devops-learning-journey">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=DevOps+%26+Cloud+Engineer+in+the+making;CI%2FCD+%7C+AWS+%7C+Terraform+%7C+Ansible+%7C+Linux;ex-C%23%2F.NET+Developer+(2.5+yrs); Open+to+Werkstudent+%2F+Internship+across+Germany" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=DevOps+%26+Cloud+Engineer+in+the+making;CI%2FCD+%7C+AWS+%7C+Terraform+%7C+Ansible+%7C+Linux;ex-C%23%2F.NET+Developer+(2.5+yrs);Open+to+Werkstudent+%2F+Internship+across+Germany" alt="Typing SVG" />
   </a>
 </p>
 
