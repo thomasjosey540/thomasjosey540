@@ -2,17 +2,21 @@
 
 <p align="center">
   <a href="https://github.com/thomasjosey540/devops-learning-journey">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=700&lines=DevOps+%26+Cloud+Engineer+in+the+making;CI%2FCD+%7C+AWS+%7C+Terraform+%7C+Ansible+%7C+Linux;2.5+yrs+software+engineering+(C%23%2F.NET);Open+to+Werkstudent+%2F+Internship+in+Germany" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=700&lines=DevOps+%26+Cloud+Engineer+in+the+making;CI%2FCD+%7C+AWS+%7C+Terraform+%7C+Ansible;Docker+%7C+Kubernetes+%7C+Linux;2.5+yrs+software+engineering+(C%23%2F.NET);Open+to+Werkstudent+%2F+Internship+in+Germany" alt="Typing SVG" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thomasjosey540&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm a DevOps & Cloud-focused engineer and MSc Applied Computer Science student at **TH Deggendorf**, with **2.5 years of professional software engineering** behind me. I build CI/CD pipelines and Infrastructure as Code, and document every step of my DevOps journey in public.
+I'm a DevOps & Cloud-focused engineer and MSc Applied Computer Science student at **TH Deggendorf**, with **2.5 years of professional software engineering** behind me. I build CI/CD pipelines, Infrastructure as Code, and containerized deployments — and document every step of my DevOps journey in public.
 
-- ⚙️ **Focus:** CI/CD · Infrastructure as Code · Cloud · Automation
+- ⚙️ **Focus:** CI/CD · Infrastructure as Code · Containers & Kubernetes · Cloud · Automation
 - 💼 **Background:** 2.5 yrs as a software engineer (C#/.NET, MS SQL Server, REST APIs, Agile)
 - 🧩 **My edge:** I understand the application side, not just the ops side
 - 🌍 **Open to:** Werkstudent / Internship roles in DevOps, Cloud, Platform & SRE — anywhere in Germany or remote
@@ -28,13 +32,17 @@ I'm a DevOps & Cloud-focused engineer and MSc Applied Computer Science student a
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
 
+**Containers & Orchestration**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
+
 **Cloud & Infrastructure as Code**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
 
-**Containers & Code Quality**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+**Code Quality & Security**
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
 ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat&logo=aquasecurity&logoColor=white)
 ![Nexus](https://img.shields.io/badge/Nexus-1B1C30?style=flat&logo=sonatype&logoColor=white)
@@ -63,21 +71,25 @@ My hands-on DevOps & Cloud portfolio, built and documented section by section:
 - **GitLab CI** — 5-stage pipeline with Docker-in-Docker and caching
 - **Terraform** — AWS EC2 provisioning with security groups, remote state (S3), and provisioners
 - **Ansible** — configuration management with playbooks, roles, Jinja2 templates, and AWS provisioning
+- **Docker** — multi-stage builds, Docker Compose, and a fully containerized multi-service app
+- **Kubernetes** — Deployments, Services, Ingress, ConfigMaps/Secrets, and Helm charts
 
 **🌐 [International Office Management System](https://github.com/thomasjosey540/mit_project_ss24)**
 Full-stack web application — React / Next.js · TypeScript · MongoDB — with JWT authentication, role-based access control, and REST APIs.
 
 ---
 
-### 📚 Currently Learning
+### 📚 Learning Progress
 
 | Topic | Status |
 |-------|--------|
 | Python | ✅ Done |
 | Terraform | ✅ Done |
 | Ansible | ✅ Done |
-| Docker | 🔄 In Progress |
-| Kubernetes | 🔜 Coming |
+| Docker | ✅ Done |
+| Containerization | ✅ Done |
+| Kubernetes | ✅ Done |
+| Final GitOps Capstone | 🔄 In Progress |
 
 ---
 
