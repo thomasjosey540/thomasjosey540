@@ -94,7 +94,7 @@ Full-stack web application — React / Next.js · TypeScript · MongoDB — with
 | Docker | ✅ Done |
 | Containerization | ✅ Done |
 | Kubernetes | ✅ Done |
-| Final GitOps Capstone | 🔄 In Progress |
+| Final GitOps Capstone | ✅ Done |
 
 ---
 
