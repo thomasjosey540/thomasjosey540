@@ -18,9 +18,10 @@ I'm a DevOps & Cloud-focused engineer and MSc Applied Computer Science student a
 
 - ⚙️ **Focus:** CI/CD · Infrastructure as Code · Containers & Kubernetes · Cloud · Automation
 - 💼 **Background:** 2.5 yrs as a software engineer (C#/.NET, MS SQL Server, REST APIs, Agile)
+- 🎓 **Master's thesis** (in collaboration with **Red Hat**): LLM-assisted reconstruction of Kubernetes workloads from cluster diagnostic data
 - 🧩 **My edge:** I understand the application side, not just the ops side
 - 🌍 **Open to:** Werkstudent / Internship roles in DevOps, Cloud, Platform & SRE — anywhere in Germany or remote
-- 🗣️ **Languages:** English (Professional) · German (A2, toward B1) · Malayalam (Native)
+- 🗣️ **Languages:** English (Professional) · German (B1) · Malayalam (Native)
 
 ---
 
@@ -36,6 +37,7 @@ I'm a DevOps & Cloud-focused engineer and MSc Applied Computer Science student a
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo%20CD-EF7B4D?style=flat&logo=argo&logoColor=white)
 
 **Cloud & Infrastructure as Code**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
@@ -74,7 +76,10 @@ My hands-on DevOps & Cloud portfolio, built and documented section by section:
 - **Docker** — multi-stage builds, Docker Compose, and a fully containerized multi-service app
 - **Kubernetes** — Deployments, Services, Ingress, ConfigMaps/Secrets, and Helm charts
 
-**🌐 [International Office Management System](https://github.com/thomasjosey540/mit_project_ss24)**
+**☸️ [vProfile GitOps Capstone](https://github.com/thomasjosey540/vprofile-gitops)**
+End-to-end GitOps delivery of a multi-tier app — Docker build → Terraform-provisioned Amazon EKS → Helm & Argo CD keeping the cluster in sync with Git.
+
+**🌐 [International Office Management System](https://github.com/thomasjosey540/international-office-management-system)**
 Full-stack web application — React / Next.js · TypeScript · MongoDB — with JWT authentication, role-based access control, and REST APIs.
 
 ---
@@ -104,7 +109,7 @@ Developed and maintained multi-module ERP web applications in C#/ASP.NET MVC for
 
 - **MSc Applied Computer Science** — Technische Hochschule Deggendorf (2023–2027)
 - **B.Tech Computer Science** — Jyothi Engineering College (2014–2018)
-- 📜 *Decoding DevOps – From Basics to Advanced Projects with AI* — Udemy (in progress)
+- 📜 *Decoding DevOps – From Basics to Advanced Projects with AI* — Udemy
 - 📜 *Programming with Python for Data Sciences* — NIIT (2019)
 
 ---
